@@ -1,16 +1,16 @@
 {
 	"items": [{
-		"speed": "80",
+		"speed": 80,
 		"longitude": "57.490380",
 		"latitude": "-20.261501",
 		"description": "Trianon Motorway - Shoprite BusStop"
 	}, {
-		"speed": "80",
+		"speed": 80,
 		"longitude": "57.490914",
 		"latitude": "-20.253326",
 		"description": "Trianon Motorway - MCB Bank"
 	}, {
-		"speed": "80",
+		"speed": 80,
 		"longitude": "57.386483",
 		"latitude": "-20.277708",
 		"description": "Cascavelle - Near Entrance of Domaine Anna"
