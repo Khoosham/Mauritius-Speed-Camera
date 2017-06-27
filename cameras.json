@@ -14,5 +14,10 @@
 		"longitude": "57.386483",
 		"latitude": "-20.277708",
 		"description": "Cascavelle - Near Entrance of Domaine Anna"
+	}, {
+		"speed": 60,
+		"longitude": "57.505972",
+		"latitude": "-20.292206",
+		"description": "St Paul Road Winners Supermarket"
 	}]
 }
